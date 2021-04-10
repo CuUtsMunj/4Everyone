@@ -14,3 +14,6 @@ Thanks you very much
 ```
 
 **USER MANUAL**
+
+* Please follow this path to get to the main directories
+* áda
