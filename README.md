@@ -10,6 +10,6 @@ Hope you fun\
 Thanks you very much 
 🤞🤞🤞🤞🤞
 ```diff
--**IMPORTANT** 
+IMPORTANT -> If you want to use packages in this repository, you need to clone branches with the following structure: **[ANSI / ...]**
+
 ```
--> If you want to use packages in this repository, you need to clone branches with the following structure: **[ANSI / ...]**
