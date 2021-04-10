@@ -13,6 +13,6 @@ Thanks you very much
 +IMPORTANT -> If you want to use packages in this repository, you need to clone branches with the following structure: [ANSI / ...]
 ```
 
-<div class="text-red mb-2">
-  .text-red on white
-</div>
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
