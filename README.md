@@ -11,5 +11,4 @@ Thanks you very much
 🤞🤞🤞🤞🤞
 
 **USER MANUAL**
-
-![#f03c15]**IMPORTANT*** -> If you want to use packages in this repository, you need to clone branches with the following structure: **[ANSI / ...]**
+![#f03c15]**IMPORTANT***`#f03c15` -> If you want to use packages in this repository, you need to clone branches with the following structure: **[ANSI / ...]**
