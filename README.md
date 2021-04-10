@@ -19,4 +19,4 @@ Thanks you very much
 * In the main directory we have the following folders :
   * **Packages** ( This directory contains smaller folders (each of these subfolders contains package files for Unity)) 
   * **Shaders** ( This directory contains smaller folders (each of these subfolders contains custom shader files for Unity))
-* You just need to import these packages into your Project
+* You just need to import these packages into your Project ( Link Tutorial How to Import Unity Package : https://www.youtube.com/results?search_query=unity3d+how+to+import+package )
