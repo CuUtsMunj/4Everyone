@@ -11,3 +11,5 @@ Thanks you very much
 🤞🤞🤞🤞🤞
 
 **USER MANUAL**
+
+If you want to use packages in this repository, you need to clone branches with the following structure: [ANSI / ...]
