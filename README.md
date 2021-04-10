@@ -13,6 +13,6 @@ Thanks you very much
 +IMPORTANT -> If you want to use packages in this repository, you need to clone branches with the following structure: [ANSI / ...]
 ```
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+<div class="text-red mb-2">
+  .text-red on white
 </div>
