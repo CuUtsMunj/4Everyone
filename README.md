@@ -13,3 +13,4 @@ Thanks you very much
 +IMPORTANT -> If you want to use packages in this repository, you need to clone branches with the following structure: [ANSI / ...]
 ```
 
+**USER MANUAL**
