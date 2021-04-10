@@ -12,3 +12,7 @@ Thanks you very much
 ```diff
 +IMPORTANT -> If you want to use packages in this repository, you need to clone branches with the following structure: [ANSI / ...]
 ```
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
