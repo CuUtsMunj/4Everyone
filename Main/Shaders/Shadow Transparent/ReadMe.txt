@@ -1,1 +1,0 @@
-+ Camera phải để chế độ Clear Flags : Solid Color ( không được để Skybox )
